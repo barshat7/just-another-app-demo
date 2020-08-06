@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/just-another-app-demo/static/css/main.69eda509.chunk.css",
+    "main.js": "/just-another-app-demo/static/js/main.378f8bd9.chunk.js",
+    "main.js.map": "/just-another-app-demo/static/js/main.378f8bd9.chunk.js.map",
+    "runtime-main.js": "/just-another-app-demo/static/js/runtime-main.f47f9fbc.js",
+    "runtime-main.js.map": "/just-another-app-demo/static/js/runtime-main.f47f9fbc.js.map",
+    "static/js/2.dd6ef1fd.chunk.js": "/just-another-app-demo/static/js/2.dd6ef1fd.chunk.js",
+    "static/js/2.dd6ef1fd.chunk.js.map": "/just-another-app-demo/static/js/2.dd6ef1fd.chunk.js.map",
+    "index.html": "/just-another-app-demo/index.html",
+    "precache-manifest.c8ba09c33a4995b26b8d944e82289c5e.js": "/just-another-app-demo/precache-manifest.c8ba09c33a4995b26b8d944e82289c5e.js",
+    "service-worker.js": "/just-another-app-demo/service-worker.js",
+    "static/css/main.69eda509.chunk.css.map": "/just-another-app-demo/static/css/main.69eda509.chunk.css.map",
+    "static/js/2.dd6ef1fd.chunk.js.LICENSE.txt": "/just-another-app-demo/static/js/2.dd6ef1fd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f47f9fbc.js",
+    "static/js/2.dd6ef1fd.chunk.js",
+    "static/css/main.69eda509.chunk.css",
+    "static/js/main.378f8bd9.chunk.js"
+  ]
+}
