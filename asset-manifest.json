@@ -5,17 +5,17 @@
     "main.js.map": "/just-another-app-demo/static/js/main.6b7f2ace.chunk.js.map",
     "runtime-main.js": "/just-another-app-demo/static/js/runtime-main.f47f9fbc.js",
     "runtime-main.js.map": "/just-another-app-demo/static/js/runtime-main.f47f9fbc.js.map",
-    "static/js/2.6a772208.chunk.js": "/just-another-app-demo/static/js/2.6a772208.chunk.js",
-    "static/js/2.6a772208.chunk.js.map": "/just-another-app-demo/static/js/2.6a772208.chunk.js.map",
+    "static/js/2.bd5b24dd.chunk.js": "/just-another-app-demo/static/js/2.bd5b24dd.chunk.js",
+    "static/js/2.bd5b24dd.chunk.js.map": "/just-another-app-demo/static/js/2.bd5b24dd.chunk.js.map",
     "index.html": "/just-another-app-demo/index.html",
-    "precache-manifest.9c0f7a4f0f3c180eef4eee379ebeea33.js": "/just-another-app-demo/precache-manifest.9c0f7a4f0f3c180eef4eee379ebeea33.js",
+    "precache-manifest.1588bd8fc3ab4ff95f1140ffce90695f.js": "/just-another-app-demo/precache-manifest.1588bd8fc3ab4ff95f1140ffce90695f.js",
     "service-worker.js": "/just-another-app-demo/service-worker.js",
     "static/css/main.69eda509.chunk.css.map": "/just-another-app-demo/static/css/main.69eda509.chunk.css.map",
-    "static/js/2.6a772208.chunk.js.LICENSE.txt": "/just-another-app-demo/static/js/2.6a772208.chunk.js.LICENSE.txt"
+    "static/js/2.bd5b24dd.chunk.js.LICENSE.txt": "/just-another-app-demo/static/js/2.bd5b24dd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f47f9fbc.js",
-    "static/js/2.6a772208.chunk.js",
+    "static/js/2.bd5b24dd.chunk.js",
     "static/css/main.69eda509.chunk.css",
     "static/js/main.6b7f2ace.chunk.js"
   ]
